@@ -1,6 +1,17 @@
 # Dot-and-Box-Chess
-This is the Dot and Box Chess I've created with C++
+Zheming Gu
+##Directory structure
 
-The Project1 is the Engine of Chess
+The Project1 is the Engine of Chess, the C++ code sameple places in this project
 
 The UI is used to load the Engine to begin a play
+
+##Descirption
+
+Project is the Dot and Boxes AI project created with Visual studio
+
+##Written Date
+07/2017
+
+
+
