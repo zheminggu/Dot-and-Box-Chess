@@ -1,16 +1,16 @@
 # Dot-and-Box-Chess
 Zheming Gu
-##Directory structure
+## Directory structure
 
 The Project1 is the Engine of Chess, the C++ code sameple places in this project
 
 The UI is used to load the Engine to begin a play
 
-##Descirption
+## Descirption
 
 Project is the Dot and Boxes AI project created with Visual studio
 
-##Written Date
+## Written Date
 07/2017
 
 
