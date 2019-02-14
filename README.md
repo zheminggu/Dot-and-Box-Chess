@@ -8,7 +8,9 @@ The UI is used to load the Engine to begin a play
 
 ## Descirption
 
-Project is the Dot and Boxes AI project created with Visual studio
+Project is the Dot and Boxes AI project created with Visual studio. 
+
+The code placed in Project1/Project1 
 
 ## Written Date
 07/2017
